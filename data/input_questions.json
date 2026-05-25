@@ -1,0 +1,53 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "type": "input",
+      "category": "食べ物",
+      "question": "ジャガイモを薄く切ったことから生まれたお菓子は何？",
+      "answer": "ポテトチップス"
+    },
+    {
+      "id": 2,
+      "type": "input",
+      "category": "生き物",
+      "question": "首の骨が人間の約2倍あり、大きく首を回せる鳥は何？",
+      "answer": "フクロウ"
+    },
+    {
+      "id": 3,
+      "type": "input",
+      "category": "言葉",
+      "question": "「相手の気持ちを推し量る」という本来の意味を持つ言葉は何？",
+      "answer": "忖度"
+    },
+    {
+      "id": 4,
+      "type": "input",
+      "category": "語源",
+      "question": "「OK」の由来となった「oll korrect」が意味していた英語は何？",
+      "answer": "all correct"
+    },
+    {
+      "id": 5,
+      "type": "input",
+      "category": "人体",
+      "question": "人間の赤ちゃんは約350本の骨で生まれますが、大人では何本になる？",
+      "answer": "206"
+    },
+    {
+      "id": 6,
+      "type": "input",
+      "category": "地理",
+      "question": "東京湾を横断して川崎市と木更津市を結ぶ道路名は？",
+      "answer": "東京湾アクアライン"
+    },
+    {
+      "id": 7,
+      "type": "input",
+      "category": "ひっかけ",
+      "question": "「冷やかし」の語源とされる職業は何屋？",
+      "answer": "豆腐屋"
+    }
+  ]
+}

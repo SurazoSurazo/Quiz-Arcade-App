@@ -1,0 +1,128 @@
+body.stage-prelim {
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(145deg, #f7df66 0%, #ed7356 46%, #3aa7b5 100%);
+  background-size: 24px 24px, 24px 24px, auto;
+  color: #1f2430;
+}
+
+body.stage-prelim .header {
+  border-bottom: 4px solid #1f2430;
+  background: #2b2140;
+}
+
+body.stage-prelim main {
+  min-height: calc(100vh - 44px);
+  background:
+    repeating-linear-gradient(0deg, rgba(31, 36, 48, 0.08) 0 2px, transparent 2px 7px),
+    radial-gradient(circle at 50% 110%, rgba(255, 255, 255, 0.26), transparent 38%);
+}
+
+.game-status {
+  border-color: #1f2430;
+  background: #fff4ad;
+}
+
+.game-status__stage {
+  border-radius: 4px;
+  background: #ff6f59;
+  color: #1f2430;
+}
+
+.game-status__score {
+  color: #2b2140;
+  font-weight: bold;
+}
+
+.question {
+  border-color: #1f2430;
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, 0.14) 0 12px, transparent 12px),
+    #206f88;
+}
+
+.question__text {
+  color: #fffdf0;
+  text-shadow: none;
+}
+
+.question__text + .question__text {
+  color: #ffffff;
+}
+
+#timer {
+  border-color: #1f2430;
+  background: #2b2140;
+  color: #fff4ad;
+}
+
+.quiz-form__input-label {
+  color: #1f2430;
+}
+
+.quiz-form__input {
+  border-color: #1f2430;
+  background: #fffdf0;
+}
+
+.quiz-form__input:focus {
+  border-color: #206f88;
+  outline-color: rgba(32, 111, 136, 0.35);
+}
+
+.quiz-form__group {
+  border-color: #1f2430;
+  background: #fffdf0;
+}
+
+.sort-quiz__item,
+.sort-quiz__answer,
+.sort-quiz__reset {
+  border-color: #1f2430;
+  background: #fffdf0;
+}
+
+.quiz-form__group:hover {
+  border-color: #1f2430;
+  background: #fff7cf;
+  box-shadow: none;
+}
+
+.sort-quiz__item:hover {
+  border-color: #1f2430;
+  background: #fff7cf;
+}
+
+.sort-quiz__answer-label {
+  color: #1f2430;
+}
+
+.sort-quiz__answer-list li {
+  background: #fff4ad;
+  color: #1f2430;
+}
+
+.quiz-form__radio:checked + .quiz-form__label {
+  background: #fff4ad;
+  color: #1f2430;
+}
+
+.quiz-form__radio:focus-visible + .quiz-form__label {
+  outline-color: #2b2140;
+}
+
+.quiz-form__button-submit {
+  border: 1px solid #1f2430;
+  background: #ff6f59;
+  color: #1f2430;
+}
+
+.quiz-form__button-submit:hover {
+  background: #ff896f;
+  transform: translateY(-1px);
+}
+
+.quick-feedback {
+  border-color: #1f2430;
+}
