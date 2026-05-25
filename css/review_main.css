@@ -1,0 +1,142 @@
+.review__content {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.review-title {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.review-empty {
+  text-align: center;
+  color: #888;
+}
+
+.review-link {
+  display: block;
+  margin: 20px auto 0;
+  padding: 12px 24px;
+  width: 180px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.review-link--secondary {
+  margin-top: 10px;
+  background: #666;
+}
+
+.mistake-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.mistake-item {
+  margin-bottom: 10px;
+}
+
+.mistake-item a {
+  display: block;
+  padding: 10px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+  transition: background 0.3s;
+}
+
+.mistake-item a:hover {
+  background: #e9e9e9;
+}
+
+.review-back {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.review-back a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.history-item {
+  padding: 10px;
+  background: #f0f8ff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.history-question {
+  display: block;
+  margin: 0 0 8px;
+  font-weight: bold;
+}
+
+.history-question--link {
+  color: #333;
+  text-decoration: none;
+}
+
+.history-question--link:hover {
+  text-decoration: underline;
+}
+
+.history-count {
+  margin: 0 0 8px;
+}
+
+.history-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.history-actions a {
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 4px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.history-date-list {
+  display: grid;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.history-date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 4px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+}
+
+.history-date__label {
+  flex-shrink: 0;
+  color: #666;
+  font-size: 13px;
+}
+
+.history-date__text {
+  color: #222;
+  text-align: right;
+}

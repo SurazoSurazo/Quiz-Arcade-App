@@ -1,0 +1,51 @@
+[
+    {
+        "name": "ウォッシャー",
+        "score": 24,
+        "prelim_correct": 4,
+        "final_correct": 9,
+        "created_at": "2026-05-18 13:34:44"
+    },
+    {
+        "name": "あああああああああああああ",
+        "score": 24,
+        "prelim_correct": 4,
+        "final_correct": 9,
+        "created_at": "2026-05-18 14:26:13"
+    },
+    {
+        "name": "岩間大地",
+        "score": 24,
+        "prelim_correct": 5,
+        "final_correct": 8,
+        "created_at": "2026-05-19 07:07:01"
+    },
+    {
+        "name": "あ",
+        "score": 22,
+        "prelim_correct": 5,
+        "final_correct": 9,
+        "created_at": "2026-05-18 20:26:47"
+    },
+    {
+        "name": "ライトニング",
+        "score": 20,
+        "prelim_correct": 4,
+        "final_correct": 8,
+        "created_at": "2026-05-18 13:29:21"
+    },
+    {
+        "name": "あいうえお",
+        "score": 14,
+        "prelim_correct": 5,
+        "final_correct": 9,
+        "created_at": "2026-05-18 13:13:49"
+    },
+    {
+        "name": "マリオ",
+        "score": 14,
+        "prelim_correct": 4,
+        "final_correct": 10,
+        "created_at": "2026-05-18 13:14:57"
+    }
+]
